@@ -1,0 +1,9 @@
+{
+  "name": "st-marks-signups",
+  "version": "1.0.0",
+  "description": "Event signup platform",
+  "main": "index.html",
+  "scripts": {
+    "dev": "netlify dev"
+  }
+}
